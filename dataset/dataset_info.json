@@ -1,0 +1,10 @@
+{
+  "toolpicker": {
+    "file_name": "data.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output",
+      "system": "system"
+    }
+  }
+}
